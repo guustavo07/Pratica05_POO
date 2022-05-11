@@ -1,4 +1,4 @@
-package Ex37;
+package Ex38;
 
 public class Funcionario {
 		String nome, departamento, data, RG;

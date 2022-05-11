@@ -49,12 +49,4 @@ public class Funcionario {
 	public void setAtivo(boolean ativo) {
 		this.ativo = ativo;
 	}
-	public void bonificar(double bonificar) {
-		salario+=bonificar;
-	}
-	public void demitir() {
-		ativo=false;
-	}
-	public 
-
 }
